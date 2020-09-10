@@ -1,2 +1,2 @@
 # workshops-development
-Repo for workshops and materials
+Repo for work in progress workshops and materials
